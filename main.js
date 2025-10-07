@@ -1,6 +1,6 @@
 
 // Thay đổi nội dung búc thư ở đây
-var letterContent ="Cảm ơn em đã luôn dành cho anh sự chân thành và ấm áp. Anh có những điều muốn gửi gắm đến tình yêu của anh ❤️. Em là món quà quý giá mà Thượng Đế đã gửi đến anh, là người khiến anh cảm thấy đặc biệt và trọn vẹn hơn bao giờ hết. Có lẽ tất cả những gì anh trải qua trong quá khứ chỉ để chờ đợi ngày em bước vào cuộc đời anh. Anh yêu em rất nhiều 💕."
+var letterContent ="Anh không biết từ khi nào, em đã trở thành một phần quen thuộc trong cuộc sống của anh. Mỗi tin nhắn, mỗi nụ cười của em đều khiến anh thấy ngày trôi qua ý nghĩa hơn. Anh không cần điều gì quá lớn lao, chỉ mong được cùng em đi qua những ngày bình yên, những buổi sáng dịu nhẹ và cả những khoảnh khắc im lặng nhưng tràn đầy yêu thương. Cảm ơn em vì đã đến, vì đã cho anh biết thế nào là hạnh phúc thật sự. Dù mai này mọi thứ có đổi thay, anh vẫn sẽ luôn trân trọng những phút giây có em trong đời💕."
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
